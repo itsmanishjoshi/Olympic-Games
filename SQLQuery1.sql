@@ -1,4 +1,4 @@
---Atheletes Event Results--
+--Atheletes Event Table--
 
 SELECT [ID]
       ,[Name] AS 'Comptetior Name'
