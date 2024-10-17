@@ -50,10 +50,10 @@ In the initial data preperation phase, we performed the following tasks:
 
 ## Data Source
 
-### Athelete Data
+### Olympic Games Data
 The primary dataset used for this analysis is the 'Olympic Games.bak' containing detailed information about the Atheletes, Country, Sports and Medals won by them.
 
-![Excel Data](https://github.com/itsmanishjoshi/Olympic-Games/blob/main/1.%20Data/Raw%20Data%20-%20img.png)
+![Raw Data](https://github.com/itsmanishjoshi/Olympic-Games/blob/main/1.%20Data/Raw%20Data%20-%20img.png)
 
 
 
