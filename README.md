@@ -17,7 +17,7 @@
 
 This Data Analysis Project aims to provide insights into the performance of athletes and countries in the Olympic Games over the years. By analyzing historical Olympic data, we seek to identify trends in medal distribution, participation rates, and performance metrics across different sports and nations. The project utilizes data visualization techniques to enhance understanding and facilitate data-driven decisions related to sports development and athlete performance. Ultimately, this analysis aims to highlight the evolution of the Olympics and contribute valuable knowledge to sports enthusiasts and policymakers alike.
 
-## Business Demand Letter [view](https://github.com/itsmanishjoshi/Olympic-Games/blob/main/Business%20Problem.pptx) 
+## Business Demand Letter [view](https://github.com/itsmanishjoshi/Olympic-Games/blob/main/2.%20Busines%20Request/Business%20Problem.png) 
 
 Hi Team,
 
@@ -106,14 +106,14 @@ WHERE
 
 This screenshot showcases the structured data model created in Power BI.
 
-![Data Model](https://github.com/itsmanishjoshi/Olympic-Games/blob/main/Olyampic%20Games%20Analysis/Data%20Model.png)
+![Data Model](https://github.com/itsmanishjoshi/Olympic-Games/blob/main/4.%20Power%20BI/Data%20Model.png)
 
 
 ## Data Visualisation
 
 After loading the processed data and constructing a comprehensive data model, I developed an in-depth data analysis report. The following screenshot presents the visualized data within Power BI, highlighting key insights derived from dynamic and interactive dashboards.
 
-![Data Visualisation](img)
+![Dashboard](https://github.com/itsmanishjoshi/Olympic-Games/blob/main/4.%20Power%20BI/Dashboard%20-%20img.png)
 
 
 
@@ -122,7 +122,7 @@ After loading the processed data and constructing a comprehensive data model, I 
 ### Athelete Data
 The primary dataset used for this analysis is the 'Olympic Games.bak' containing detailed information about the Atheletes, Country, Sports and Medals won by them.
 
-![](img)
+![Excel Data](https://github.com/itsmanishjoshi/Olympic-Games/blob/main/1.%20Data/Data%20-%20img.png)
 
 ### Updating the data
 Download and execute the script in SQL to update the database.
