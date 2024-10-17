@@ -48,6 +48,15 @@ In the initial data preperation phase, we performed the following tasks:
 3. Data cleaning and preperation.
 
 
+## Data Source
+
+### Athelete Data
+The primary dataset used for this analysis is the 'Olympic Games.bak' containing detailed information about the Atheletes, Country, Sports and Medals won by them.
+
+![Excel Data](https://github.com/itsmanishjoshi/Olympic-Games/blob/main/1.%20Data/Raw%20Data%20-%20img.png)
+
+
+
 ## Data Cleansing & Transformation (SQL)
 To create the necessary data model for doing data analysis and fulfilling the business needs defined in the user stories the following tables were extracted using SQL.
 
@@ -117,14 +126,8 @@ After loading the processed data and constructing a comprehensive data model, I 
 
 
 
-## Data Source
 
-### Athelete Data
-The primary dataset used for this analysis is the 'Olympic Games.bak' containing detailed information about the Atheletes, Country, Sports and Medals won by them.
 
-![Excel Data](https://github.com/itsmanishjoshi/Olympic-Games/blob/main/1.%20Data/Data%20-%20img.png)
 
-### Updating the data
-Download and execute the script in SQL to update the database.
 
 ## Results / Findings
